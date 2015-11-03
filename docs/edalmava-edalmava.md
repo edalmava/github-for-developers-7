@@ -5,3 +5,5 @@
 > **Food:** *Arroz con coco*
 
 > **Hobby:** *Caminar*
+
+> **Color:** *Azul*
